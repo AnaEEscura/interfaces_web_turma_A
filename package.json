@@ -1,0 +1,15 @@
+{
+  "name": "interfaces_web_turma_a",
+  "version": "1.0.0",
+  "description": "Projetos realizados na aula de interfaces web. Com o melhor sor que existe.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
